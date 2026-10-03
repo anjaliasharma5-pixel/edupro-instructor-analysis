@@ -1,3 +1,4 @@
+🔗 **Live Demo:** https://edupro-instructor-analysis-m448lwyoxgfn74sj6uytu4.streamlit.app/
 # Instructor Performance and Course Quality Evaluation — EduPro
 
 Data analytics project for Unified Mentor Pvt. Ltd.: evaluates instructor
